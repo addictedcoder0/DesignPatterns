@@ -1,0 +1,5 @@
+package com.pattern.StrategyPattern;
+
+public interface FlyBehavior {
+	public void fly();
+}
